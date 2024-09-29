@@ -1,1 +1,1 @@
-# CS 450
+# CS 450 - Intro to Graphics
