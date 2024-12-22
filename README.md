@@ -20,11 +20,14 @@ Each project folder contains:
 | Project 3️⃣ | Lighting	 |
 | Project 4️⃣ | Keytime Animation |
 | Project 5️⃣ | Texture Mapping	 |
+| Project 6️⃣ | Shaders |
+| Final Project | Copy Block Drawing Game |
 
 
 ## 🛠️ Technologies Used
   * OpenGL
   * C++
+  * GLSL
 
 ## 🎓 Learning Outcomes Through these projects, I've gained invaluable experience in:
   * 3D modeling and rendering
